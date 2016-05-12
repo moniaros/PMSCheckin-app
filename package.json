@@ -1,14 +1,14 @@
 {
-  "name": "trello-for-mac",
+  "name": "PMSCheckin",
   "version": "0.0.1",
-  "description": "Trello for mac via Electron",
+  "description": "PMSCheckin via Electron",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nerdburn/trello-for-mac.git"
+    "url": "git+https://github.com/moniaros/PMSCheckin-app.git"
   },
   "keywords": [
     "Electron",
